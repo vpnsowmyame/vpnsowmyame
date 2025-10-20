@@ -3,7 +3,7 @@
 <h1 align="left">About me</h1>
 
 <h1 align="left">🌟 Skills</h1>
-<h2>Software Development & Architecture</h2>
+<h3>Software Development & Architecture</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=googledesign&logoColor=white" alt="System Design" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="No-SQL" />
 </p>
+
+<h3>Specialized Domains</h3>
 
 
 <!--
