@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Sowmya M D</h1>
 
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 
 
 <!--
