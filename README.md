@@ -3,8 +3,12 @@
 <h1 align="left">About me</h1>
 
 <h1 align="left">Skills</h1>
-
-
+*  Software Development & Architecture
+*  Specialized Domains
+*  DevOps & Cloud Computing
+*  Foundational Skills
+*  Web Frameworks
+*  Tools and Utilities
 
 <!--
 **vpnsowmyame/vpnsowmyame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
