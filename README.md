@@ -3,7 +3,7 @@
 <h1 align="left">About me</h1>
 
 <h1 align="left">🌟 Skills</h1>
-### Software Development & Web Frameworks
+## Software Development & Web Frameworks
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI" />
