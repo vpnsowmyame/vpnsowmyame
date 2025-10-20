@@ -2,6 +2,9 @@
 
 <h1 align="left">About me</h1>
 
+<h1 align="left">Skills</h1>
+
+
 
 <!--
 **vpnsowmyame/vpnsowmyame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
