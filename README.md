@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋 I'm Sowmya M D</h1>
 
 <h1 align="left">About me</h1>
+<h5 align="left">Full-Stack Architect & SDET Expert | 14 Years of Building Resilience</h5>
+I’m a highly motivated software professional specializing in full-lifecycle development. With 14 years spanning Development, Production Support, and SDET, I bring a unique ability to design innovative, maintainable, and production-ready architectures. 
 
 <h1 align="left">🌟 Skills</h1>
 <h5>Software Development & Architecture</h5>
